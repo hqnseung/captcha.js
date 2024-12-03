@@ -1,0 +1,22 @@
+{
+  "name": "@hqnseung/captcha.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hqnseung/captcha.js.git"
+  },
+  "author": "hqnsueng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hqnseung/captcha.js/issues"
+  },
+  "homepage": "https://github.com/hqnseung/captcha.js#readme",
+  "description": "",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
